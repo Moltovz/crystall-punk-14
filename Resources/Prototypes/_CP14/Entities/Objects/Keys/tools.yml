@@ -7,6 +7,9 @@
   components:
   - type: Item
     storedRotation: -90
+  - type: Tool
+    qualities:
+    - Picking
   - type: Sprite
     sprite: _CP14/Objects/keys.rsi
     state: lockpick_iron

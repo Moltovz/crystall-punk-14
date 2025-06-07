@@ -67,3 +67,10 @@
   toolName: tool-quality-rolling-tool-name
   spawn: RollingPin
   icon: { sprite: Objects/Tools/rolling_pin.rsi, state: icon }
+
+- type: tool
+  id: Picking
+  name: tool-quality-Picking-name
+  toolName: tool-quality-picking-tool-name
+  spawn: CP14BaseLockpick
+  icon: { sprite: _CP14/Objects/keys.rsi, state: lockpick_iron }
